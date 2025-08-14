@@ -28,4 +28,4 @@ freelancer-earning-job-trends-analysis/
 ├── README.md
 ```
 ## 🔗 Links
-- [🔍 Kaggle Notebook](https://www.kaggle.com/code/sarthakmishra12/chocolate-sales-analysis)
+- [🔍 Kaggle Notebook](https://www.kaggle.com/code/sarthakmishra12/freelancer-earning-job-trends-analysis)
